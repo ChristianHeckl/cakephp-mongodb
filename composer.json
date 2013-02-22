@@ -1,5 +1,6 @@
 {
     "name": "cakephp/mongodb",
+	"type": "cakephp-plugin",
     "description": "mongoDB datasource for CakePHP",
     "authors": [
         {
@@ -9,6 +10,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-
+		"composer/installers": "~1.0"
     }
 }
