@@ -1,0 +1,14 @@
+{
+    "name": "cakephp/mongodb",
+    "description": "mongoDB datasource for CakePHP",
+    "authors": [
+        {
+            "name": "Yasushi Ichikawa",
+            "email": "ichikaway@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
